@@ -1,0 +1,14 @@
+@import '~bootstrap/dist/css/bootstrap.css';
+
+body {
+  background-color: #efefef;
+}
+
+.header {
+  background-color: white;
+  padding: 10px;
+}
+.navbar-brand {
+  font-size: x-large;
+  font-weight: bolder;
+}
